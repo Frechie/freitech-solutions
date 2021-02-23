@@ -3,38 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.80.0">
-    <title>Dashboard Template · Bootstrap v5.0</title>
+    <meta name="description" content="NIgeria Number 1 Technology Soluytion">
+    <meta name="author" content="Alfred Ifogbe, Technology Consultant & Software Engineer">
+    <meta name="keywords" content="Nigeria Technology Solution, Technology Consultant">
+    <meta name="keywords" content="Data Analytics and Visualization, Power-Bi MySQL, Python">
+    <meta name="keywords" content="Creative Grapgics Design, Nigeria Creative Grapics Designer">
+    <title>Freitech Solutions : Everything Technology</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">    
+    <link href="{{ asset('assets/css/bootstrap.min.css' ) }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/main-site-styles.css') }}" rel="stylesheet">
+</head>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/dashboard/">
 
-    
 
-    <!-- Bootstrap core CSS -->
-<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
 
-    
-    <!-- Custom styles for this template -->
-    <link href="dashboard.css" rel="stylesheet">
-  </head>
+
+
+
 
 
 
@@ -43,7 +30,6 @@
 
 <!-- <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -70,16 +56,16 @@
   <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 </head> -->
 
-<body>
+<!-- <body> -->
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
+  <!-- <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html">Freitech<span>Solutions</span></a></h1>
+        <h1 class="text-light"><a href="index.html">Freitech<span>Solutions</span></a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="{{ asset('assets/img/logo.png" alt="" class="img-fluid"></a>-->
-      </div>
+      <!-- </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -100,7 +86,6 @@
           </li>
           <li><a href="">Blog</a></li>
         </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
+      </nav>.nav-menu -->
+    <!-- </div>
+  </header>End Header -->
