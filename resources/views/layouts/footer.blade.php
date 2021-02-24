@@ -31,19 +31,15 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li> <a href="#">Web Design &amp; Development</a></li>
-            <li> <a href="#">Data Analytics &amp; Visualization </a></li>
-            <li> <a href="#">Enterprise Apps Customization &amp; Integration</a></li>
-            <li> <a href="#"> Creative Graphics Design</a></li>
-            <li> <a href="#">Training &amp; Consultation</a></li>
+            <li> <a href="">Web Design &amp; Development</a></li>
+            <li> <a href="">Data Analytics &amp; Visualization </a></li>
+            <li> <a href="">Enterprise Apps Customization &amp; Integration</a></li>
+            <li> <a href=""> Creative Graphics Design</a></li>
+            <li> <a href="">Training &amp; Consultation</a></li>
           </ul>
         </div>
-        <div class="col-lg-4 col-md-6 footer-newsletter">
-          <h4>Subscribe</h4>
-          <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-          <form action="" method="post">
-            <input type="email" name="email"><input type="submit" value="Subscribe">
-          </form>
+        <div class="col-lg-4 col-md-6">
+          
         </div>
       </div>
     </div>

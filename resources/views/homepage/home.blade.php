@@ -61,7 +61,11 @@
 <section id="about">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 col-md-6">
+    <div class="section-title text-center">
+      <h2>Freitech-Solutions Ideals</h2>
+      <hr>
+    </div>
+      <div class="col-lg-6 col-md-6">     
         <div class="card">
           <div class="card-header">
             Freitech Solution
@@ -73,22 +77,10 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-6 col-md-6">
         <div class="card">
           <div class="card-header">
             Freitech Solution
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">The one-stop technology solution center</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary">Learn More....</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-12">
-        <div class="card">
-          <div class="card-header">
-            Dynamic Solution
           </div>
           <div class="card-body">
             <h5 class="card-title">The one-stop technology solution center</h5>
@@ -114,7 +106,8 @@
         <div class="icon-box">
           <i class="icofont-computer"></i>
           <h4><a href="#">Web Design &amp; Development </a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint 
+            occaecati cupiditate non provident</p>
         </div>
       </div>
       <div class="col-md-6 mt-4 mt-md-0">
@@ -124,7 +117,9 @@
           <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
         </div>
       </div>
-      <div class="col-md-6 mt-4 mt-md-0">
+    </div>
+    <div class="row">
+      <div class="col-md-6">
         <div class="icon-box">
           <i class="icofont-settings"></i>
           <h4><a href="#">Enterprise Apps Customization &amp; Integrations</a></h4>
@@ -133,7 +128,7 @@
       </div>
       <div class="col-md-6 mt-4 mt-md-0">
         <div class="icon-box">
-          <i class="icofont-puzzle"></i>
+          <i class="icofont-network"></i>
           <h4><a href="#">Training &amp; Consulting</a></h4>
           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
         </div>
@@ -142,17 +137,19 @@
   </div>
 </section><!-- End Services Section -->
 <hr>
-<!-- ======= Team Section ======= -->
+
 <section id="team" class="team">
   <div class="container">
     <div class="section-title text-center">
-      <h2>Subject Matter Expert Team</h2>
+      <h2>Subject Matter Expert</h2>
       <hr>
     </div>
     <div class="row">
       <div class="col-lg-6">
         <div class="member d-flex align-items-start">
-          <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+          <div class="pic">
+          <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+          </div>
           <div class="member-info">
             <h4>Alfred Ifogbe</h4>
             <span>Software Engineer &amp; Technology Consultant</span>

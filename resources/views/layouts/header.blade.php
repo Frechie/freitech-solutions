@@ -10,6 +10,7 @@
   <meta name="keywords" content="Data Analytics and Visualization, Power-Bi MySQL, Python">
   <meta name="keywords" content="Creative Grapgics Design, Nigeria Creative Grapics Designer">
   <title>Freitech Solutions : Everything Technology</title>
+  <link href="{{asset('assets/img/favicon.png') }}" rel="icon">
   <link href="{{ asset('assets/css/bootstrap.min.css' ) }}" rel="stylesheet">
   <link href="{{ asset('assets/css/main-site-styles.css') }}" rel="stylesheet">
   <link href="{{ asset('assets/icofont/icofont.min.css') }}" rel="stylesheet">
