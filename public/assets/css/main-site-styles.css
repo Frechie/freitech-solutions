@@ -349,7 +349,7 @@ body {
 /* Login Form Styles */
 .form-signin {
   width: 100%;
-  max-width: 400px;
+  max-width: 500px;
   padding: 40px;
   margin: auto;
 }

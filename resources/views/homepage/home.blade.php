@@ -13,9 +13,10 @@
       <img src="{{ asset('assets/img/slide/slider-img-1.jpg') }}" class="img-fluid w-100 h-100" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Freitech Solutions</h1>
-          <p>Delivering Cutting-Edge Solution within Timeline and Budget</p>
-          <p><a class="btn btn-lg btn-primary" href="#">Learn More</a></p>
+          <h1 class="animated fadeInDown">Freitech Solutions</h1>
+            <p class="animated fadeInUp">Delivering Cutting-Edge Solution within Timeline and Budget</p>
+            <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More</a></p>
+          
         </div>
       </div>
     </div>
@@ -23,9 +24,9 @@
       <img src="{{ asset('assets/img/slide/slider-img-4.jpg') }}" class="img-fluid w-100 h-100" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Data Analytics and Visualization</h1>
-          <p>Some representative placeholder content for the second slide of the carousel.</p>
-          <p><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
+          <h1 class="animated fadeInDown">Data Analytics and Visualization</h1>
+          <p class="animated fadeInUp">Some representative placeholder content for the second slide of the carousel.</p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
         </div>
       </div>
     </div>
@@ -33,9 +34,9 @@
       <img src="{{ asset('assets/img/slide/slider-img-5.jpg') }}" class="img-fluid w-100 h-100" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Creative Graphics Design</h1>
-          <p>Some representative placeholder content for the third slide of this carousel.</p>
-          <p><a class="btn btn-lg btn-primary" href="#">Learn More....</a></p>
+          <h1 class="animated fadeInDown">Creative Graphics Design</h1>
+          <p class="animated fadeInUp"> Some representative placeholder content for the third slide of this carousel.</p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More....</a></p>
         </div>
       </div>
     </div>
@@ -43,9 +44,9 @@
       <img src="{{ asset('assets/img/slide/slider-img-3.jpg') }}" class="img-fluid w-100 h-100" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Technology and Business Consultanting</h1>
-          <p>Some representative placeholder content for the third slide of this carousel.</p>
-          <p><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
+          <h1 class="animated fadeInDown">Technology and Business Consultanting</h1>
+          <p class="animated fadeInUp">Some representative placeholder content for the third slide of this carousel.</p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
         </div>
       </div>
     </div>
@@ -63,11 +64,11 @@
 <section id="about">
   <div class="container">
     <div class="row">
-    <div class="section-title text-center">
-      <h2>Freitech-Solutions Ideals</h2>
-      <hr>
-    </div>
-      <div class="col-lg-6 col-md-6">     
+      <div class="section-title text-center">
+        <h2>Freitech-Solutions Ideals</h2>
+        <hr>
+      </div>
+      <div class="col-lg-6 col-md-6">
         <div class="card">
           <div class="card-header">
             Freitech Solution
@@ -106,7 +107,7 @@
         <div class="icon-box">
           <i class="icofont-computer"></i>
           <h4><a href="#">Web Design &amp; Development </a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint 
+          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
             occaecati cupiditate non provident</p>
         </div>
       </div>
@@ -132,8 +133,8 @@
           <h4><a href="#">Training &amp; Consulting</a></h4>
           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
-                    </div>
+            Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+          </div>
         </div>
       </div>
     </div>
@@ -151,7 +152,7 @@
       <div class="col-lg-6">
         <div class="member d-flex align-items-start">
           <div class="pic">
-          <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
           </div>
           <div class="member-info">
             <h4>Alfred Ifogbe</h4>
@@ -185,7 +186,7 @@
       <div class="col-lg-6 mt-4">
         <div class="member d-flex align-items-start">
           <div class="pic">
-          <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
           </div>
           <div class="member-info">
             <h4>Yemisi Nyaaku</h4>
@@ -203,7 +204,7 @@
       <div class="col-lg-6 mt-4">
         <div class="member d-flex align-items-start">
           <div class="pic">
-          <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
           </div>
           <div class="member-info">
             <h4>Folasade Ademola </h4>

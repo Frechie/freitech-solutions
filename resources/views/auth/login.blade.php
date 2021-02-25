@@ -8,7 +8,7 @@
 
         <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="Feitech Solution Logo" width="72" height="57">
         <h1 class="h3 mb-3 fw-normal">Login</h1>
-        <label for="inputEmail" class="">E-mail Address:</label>
+        <label for="email" class="">E-mail Address:</label>
         <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus>
 
         @error('email')
@@ -17,7 +17,7 @@
         </span>
         @enderror
 
-        <label for="inputPassword" class=""> Password: </label>
+        <label for="password" class=""> Password: </label>
         <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
 
         @error('password')
