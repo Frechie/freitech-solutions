@@ -1,4 +1,6 @@
-@include('layouts.header')
+@extends('layouts.app')
+
+@section('content')
 <div id="slider" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#slider" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -92,9 +94,7 @@
     </div>
   </div>
 </section>
-
 <hr>
-
 <section id="services" class="services section-bg">
   <div class="container">
     <div class="section-title text-center">
@@ -131,6 +131,9 @@
           <i class="icofont-network"></i>
           <h4><a href="#">Training &amp; Consulting</a></h4>
           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
+                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+                    </div>
         </div>
       </div>
     </div>
@@ -168,7 +171,7 @@
           <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
           <div class="member-info">
             <h4>Odufuwa Tayo</h4>
-            <span>Data Anayst</span>
+            <span>Data Anayst &amp; Tecnology Enthiusat</span>
             <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
             <div class="social">
               <a href=""><i class="icofont-twitter"></i></a>
@@ -181,9 +184,11 @@
 
       <div class="col-lg-6 mt-4">
         <div class="member d-flex align-items-start">
-          <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+          <div class="pic">
+          <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+          </div>
           <div class="member-info">
-            <h4>Adeola Adenuga</h4>
+            <h4>Yemisi Nyaaku</h4>
             <span>Creative Graphics Specialist</span>
             <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
             <div class="social">
@@ -197,10 +202,12 @@
 
       <div class="col-lg-6 mt-4">
         <div class="member d-flex align-items-start">
-          <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+          <div class="pic">
+          <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+          </div>
           <div class="member-info">
-            <h4>Frechie Achoja </h4>
-            <span>Technology &amp; Business Consultant</span>
+            <h4>Folasade Ademola </h4>
+            <span>Security Expert &amp; Technology Consultant</span>
             <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
             <div class="social">
               <a href=""><i class="icofont-twitter"></i></a>
@@ -214,4 +221,4 @@
   </div>
 </section>
 <hr>
-@include('layouts.footer')
+@endsection
