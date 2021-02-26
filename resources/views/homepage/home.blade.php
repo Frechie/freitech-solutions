@@ -16,7 +16,9 @@
         <div class="carousel-caption">
           <h1 class="animated fadeInDown">Freitech Solutions</h1>
           <p class="animated fadeInUp">
-            Whether your technology needs are Application Design and Development, Data Analytics, Creative Graphics Design or Technology Trainig and Consulting related; using latest cutting edge Technology Tools, Freiectech-Soloutions make boast to say you have come to the right place. Look nno furthetr as we promise to keep our word: Proffering technological solutions... We are only a call away...
+            Whatever your technology needs are, you have come to the right place. 
+            Look no furthetr as we promise to keep our word: Proffering technological solutions...
+             We are only a call away...
           </p>
           <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More</a></p>
 
@@ -74,7 +76,7 @@
         <div class="icon-box">
           <h3>Freitech Solutions: Effective Technology Solution </h3>
           <hr>
-          <article class="text-justify" style="text-align: justify;">
+          <article style="text-align: justify;">
             <p>
               The dependent on Technological Solution to every day hhuman problems can only increase and any undividual or organization
               that refuse to align to this change would realise that in no time their organization would barely exist if it has not gone into
@@ -92,11 +94,9 @@
               Whatever your Business Requirements are, kindly drop a message and we will be aeager to discuss with you with a view to providing the
               best Solutions tailored for your organization...
             </p>
-
-
           </article>
           <hr>
-          <div class="text-center">
+          <div>
             <a href="" class="btn btn-explore w-100">Explore....</a>
           </div>
         </div>

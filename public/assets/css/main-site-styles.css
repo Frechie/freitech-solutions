@@ -82,21 +82,17 @@ body {
   z-index: 2;
 }
 
-
+li .nav-link, li .dropdown-item{
+  font-size: 0.8rem;
+}
 
 #about {
   background: linear-gradient(rgba(243, 245, 247, 0.993), rgba(245, 247, 252, 0.959)), url("../img/portfolio/portfolio-1.jpg") fixed center center;
-  padding: 2rem;
+  padding: 0.5rem;
 }
 
 #about .icon-box > h3{
   color:  rgba(32, 1, 46, 0.959) !important;
-}
-
-#about .icon-box {
-  margin-left: 70px;
-  line-height: 24px;
-  font-size: 14px;
 }
 
 @media (min-width: 40em) {
@@ -325,7 +321,7 @@ body {
   border-radius: 50px;
   width: 32px;
   height: 32px;
-  background: #c2cdcf;
+  background: #7e5d94;
 }
 
 .team .member .social a i {
@@ -335,7 +331,7 @@ body {
 }
 
 .team .member .social a:hover {
-  background: #320153;
+  background: #440d68;
 }
 
 .team .member .social a+a {
@@ -349,37 +345,37 @@ body {
   background: linear-gradient(rgba(247, 249, 250, 0.952), rgba(236, 240, 248, 0.959)), url("../img/portfolio/portfolio-3.jpg") fixed center center;
 }
 
-.services .icon-box {
+ .icon-box {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
   background: linear-gradient(rgba(247, 249, 250, 0.952), rgba(232, 237, 247, 0.959));
 }
 
-.services .icon-box i {
+ .icon-box i {
   float: left;
   color: linear-gradient(rgba(73, 12, 109, 0.952), rgba(34, 2, 48, 0.959));
   font-size: 40px;
 }
 
-.services .icon-box h4 {
+ .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .icon-box h4 a {
+ .icon-box h4 a {
   color: #354144;
   transition: 0.3s;
 }
 
-.services .icon-box:hover h4 a {
+ .icon-box:hover h4 a {
   color: #320153;
 }
 
  p {
-  margin-left: 70px;
+  margin-left: 5px;
   line-height: 24px;
   font-size: 14px;
 }
