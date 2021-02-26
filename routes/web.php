@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function (){
-    return view('about.frietech-solution');
+    return view('about.freitech-solutions');
 });
 
 
@@ -42,6 +42,9 @@ Route::get('/services', function (){
 
 Route::get('/services', function (){
     return view('services.graphics-design');
+});
+Route::get('/blog', function (){
+    return view('blog.blogs');
 });
 
 

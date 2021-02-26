@@ -19,8 +19,8 @@
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <div class="container">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+      <div class="container animated fadeInDown">
         <a class="navbar-brand" href="{{url('/') }}">FreitechSolution</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -28,14 +28,14 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mx-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="{{url('/') }}">HOME</a>
+              <a class="nav-link" aria-current="page" href="{{url('/') }}">HOME</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 ABOUT
               </a>
               <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
-                <li><a class="dropdown-item" href="">FrietechSolution</a></li>
+                <li><a class="dropdown-item" href="{{ url('/about') }}">FrietechSolution</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">TEAM</a></li>
                 <li><hr class="dropdown-divider"></li>
@@ -56,7 +56,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">BLOG</a>
+              <a class="nav-link" href="{{ url('/blog') }}">BLOG</a>
             </li>
           </ul>
 
@@ -116,7 +116,7 @@
   </div>
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong><span>Freitech-Solutions</span></strong>. All Rights Reserved
+      &copy; Copyright {{date('Y') }} <strong><span>Freitech-Solutions</span></strong>. All Rights Reserved
     </div>
   </div>
 </footer>

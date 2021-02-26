@@ -30,7 +30,7 @@
                         </div>
                     </div>
 
-                </article><!-- End blog entry -->
+                </article>
             </div>
 
 
@@ -154,7 +154,7 @@
                         </div>
                     </div>
 
-                </article><!-- End blog entry -->
+                </article>
             </div>
 
             <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
@@ -184,7 +184,7 @@
                         </div>
                     </div>
 
-                </article><!-- End blog entry -->
+                </article>
             </div>
         </div>
     </div>
