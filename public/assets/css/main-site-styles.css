@@ -29,6 +29,7 @@ body {
   padding-top: 3rem;
   color: #000000;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 #slider{
@@ -382,7 +383,6 @@ li .nav-link, li .dropdown-item{
 
 /* Login Form Styles */
 .auth{
-  color: #fff !important;
   background: linear-gradient(rgba(58, 36, 71, 0.952), rgba(28, 3, 39, 0.959)), url("../img/portfolio/portfolio-4.jpg") fixed center center;
 }
 
