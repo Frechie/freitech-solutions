@@ -30,7 +30,7 @@
                         </div>
                     </div>
 
-                </article><!-- End blog entry -->
+                </article>
             </div>
 
 

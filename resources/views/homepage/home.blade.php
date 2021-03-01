@@ -16,9 +16,9 @@
         <div class="carousel-caption">
           <h1 class="animated fadeInDown">Freitech Solutions</h1>
           <p class="animated fadeInUp">
-            Whatever your technology needs are, you have come to the right place. 
+            Whatever your technology needs are, you have come to the right place.
             Look no furthetr as we promise to keep our word: Proffering technological solutions...
-             We are only a call away...
+            We are only a call away...
           </p>
           <p class="animated fadeInUp"><a class="btn btn-lg btn-explore" href="#">Learn More</a></p>
 
@@ -112,17 +112,31 @@
       <h2>Services and Offerings</h2>
       <hr>
     </div>
+
     <div class="row">
+
+    <!-- Web Design and Development Section -->
       <div class="col-md-6">
         <div class="icon-box">
           <i class="icofont-computer"></i>
           <h4><a href="#">Web Design &amp; Development </a></h4>
           <hr>
           <p>
-            Having a Physical Presence is good. Having an online presence via the available Social Media Platforms is better; however not beats having
-            your own Website.</p>
-          <p>Everyone uses the internet to validate information and what else can be better than having
-            your own Website. It is not enough to just have a ...
+            It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
+            <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered 
+            to our doorsteps.
+            </p>
+            <p>
+            No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
+            device, we can conduct all of our Financial activities seamlessly and in record time.
+            </p>
+            <p>
+            Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that 
+            would detonate soonest.
+            </p>
+          <p>
+          Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity. 
+          <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
           </p>
           <hr>
           <div class="text-center">
@@ -130,23 +144,32 @@
           </div>
         </div>
       </div>
+
+      <!-- Big Data Analytics and Visualization Section -->
+
       <div class="col-md-6 mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-chart-bar-graph"></i>
-          <h4><a href="#">Data Analytics &amp; Visualizations</a></h4>
+          <h4><a href="#">Big Data Analytics &amp; Business Intelligence</a></h4>
           <hr>
           <article style="text-align: justify;">
-          <p>
-            No thanks to the rapid increase in Technological advancement, everything and everyone on
-             or the other now generates so much data that it has become increasingly difficult to make meaning out of this data.
-          </p>
-          <p>
-            Freitech Solution, Team of Experts specializes in extracting Insights from large data-sets in order to help
-            Organization Management Team make informed and highly effective decisions...
-          </p>
-          <p>
-            Decision Making Process has never been this Technology Dependent. Contact us now 
-          </p>
+            <p>
+              <strong>Take a guess:</strong> How much data do you think is generated across the globe?
+              My guts feeling tells me your guess falls below the mark except you are a Big Data Enthusiast/Analyst
+              with updated information.
+            </p>
+            <p>
+              A peek at <a href="internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
+              <strong>150+ billion </strong> emails being sent daily, <strong>5+ billions Google</strong> searches daily.
+            </p>
+            <p>
+              Possessing the right Tools, Resources and Technologies in order to extract meaniful Insights from this huge data gold-mine
+              is what would detemine how far your organization thrives in this ever-dirsuptive 21st century society.
+            </p>
+            <p>
+            It is no longer about making decisions but having an effctive decison making system. Put differently,
+            Yow do you make the decision that determines your decision. 
+            </p>
           </article>
           <hr>
           <div class="text-center">
@@ -155,6 +178,8 @@
         </div>
       </div>
     </div>
+
+    
     <div class="row">
       <div class="col-md-6">
         <div class="icon-box">
