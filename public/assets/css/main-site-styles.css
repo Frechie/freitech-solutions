@@ -61,7 +61,7 @@ body {
   left: 0px;
   height: 100%;
   width: 100%;
-  background: linear-gradient(rgba(58, 36, 71, 0.952), rgba(28, 3, 39, 0.959));
+  background: linear-gradient(rgba(58, 50, 63, 0.897), rgba(28, 3, 39, 0.897));
 }
 
 /* Declare heights because of positioning of img element */
@@ -163,7 +163,7 @@ li .nav-link, li .dropdown-item{
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
-  border-radius: 5px;
+  border-radius: 30px;
   text-align: center;
   width: 36px;
   height: 36px;

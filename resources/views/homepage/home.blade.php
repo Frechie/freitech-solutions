@@ -20,7 +20,7 @@
             Look no furthetr as we promise to keep our word: Proffering technological solutions...
              We are only a call away...
           </p>
-          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More</a></p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-explore" href="#">Learn More</a></p>
 
         </div>
       </div>
@@ -32,7 +32,7 @@
         <div class="carousel-caption">
           <h1 class="animated fadeInDown">Data Analytics and Visualization</h1>
           <p class="animated fadeInUp">Some representative placeholder content for the second slide of the carousel.</p>
-          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-explore" href="#">Learn More...</a></p>
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@
         <div class="carousel-caption">
           <h1 class="animated fadeInDown">Creative Graphics Design</h1>
           <p class="animated fadeInUp"> Some representative placeholder content for the third slide of this carousel.</p>
-          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More....</a></p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-explore" href="#">Learn More....</a></p>
         </div>
       </div>
     </div>
@@ -54,7 +54,7 @@
         <div class="carousel-caption">
           <h1 class="animated fadeInDown">Technology and Business Consultanting</h1>
           <p class="animated fadeInUp">Some representative placeholder content for the third slide of this carousel.</p>
-          <p class="animated fadeInUp"><a class="btn btn-lg btn-primary" href="#">Learn More...</a></p>
+          <p class="animated fadeInUp"><a class="btn btn-lg btn-explore" href="#">Learn More...</a></p>
         </div>
       </div>
     </div>
