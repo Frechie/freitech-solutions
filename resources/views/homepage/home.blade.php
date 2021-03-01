@@ -105,16 +105,10 @@
   </div>
   </div>
 </section>
-<hr>
+
 <section id="services" class="services section-bg">
   <div class="container">
-    <div class="section-title text-center">
-      <h2>Services and Offerings</h2>
-      <hr>
-    </div>
-
     <div class="row">
-
     <!-- Web Design and Development Section -->
       <div class="col-md-6">
         <div class="icon-box">

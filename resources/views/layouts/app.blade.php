@@ -123,7 +123,9 @@
     </div>
     <div class="container">
       <div class="copyright">
-        &copy; Copyright {{date('Y') }} <strong><span>Freitech-Solutions</span></strong>. All Rights Reserved
+       Copyright  &copy;  {{date('Y') }} <strong><span>Freitech-Solutions</span></strong>. All Rights Reserved <br>
+       <small>The information contained herein may not be published, broadcast, rewritten, or redistributed
+        without the prior written authority of <a href="{{url('/')}}">Freitech Solutions</a></small>
       </div>
     </div>
   </footer>

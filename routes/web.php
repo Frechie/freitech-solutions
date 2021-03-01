@@ -36,13 +36,19 @@ Route::get('/services', function (){
     return view('services.training-consulting');
 });
 
-Route::get('/services', function (){
+Route::get('/services/data-analytics', function (){
     return view('services.data-analytics');
 });
 
-Route::get('/services', function (){
+Route::get('/services/graphics', function (){
     return view('services.graphics-design');
 });
+
+Route::get('/services/web-design', function (){
+    return view('services.web-design');
+});
+
+
 Route::get('/blog', function (){
     return view('blog.blogs');
 });
