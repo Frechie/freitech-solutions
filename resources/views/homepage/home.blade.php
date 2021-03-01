@@ -179,19 +179,27 @@
       </div>
     </div>
 
-    
     <div class="row">
       <div class="col-md-6">
         <div class="icon-box">
           <i class="icofont-settings"></i>
           <h4><a href="#">Enterprise Apps Customization &amp; Integrations</a></h4>
           <hr>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          <p>
+           In my experience as a Technology consulatant, organisations upon the purchase of an Enterprise organisation 
+           always ensures that the Technology utilization is at a reasonable percentage that matches the Financial efforts 
+           and Resources put in.
+           </p>
+           <p>
+            Freitech Solutions, with in-depths knowledge ensures that clients get the most they can from their Enterprise Apps
+            by extending the core features or integratiing the System with an external systems...
+           </p>
           <hr>
           <div class="text-center">
             <a href="" class="btn btn-explore w-100">Explore....</a>
           </div>
         </div>
+
 
       </div>
       <div class="col-md-6 mt-4 mt-md-0">
