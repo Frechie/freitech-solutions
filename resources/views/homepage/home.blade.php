@@ -134,7 +134,7 @@
           </p>
           <hr>
           <div class="text-center">
-            <a href="" class="btn btn-explore w-100">Explore....</a>
+            <a href="{{ url('/services/web-design') }}" class="btn btn-explore w-100">Explore....</a>
           </div>
         </div>
       </div>

@@ -477,5 +477,11 @@ li .nav-link, li .dropdown-item{
 }
 
 /*
- * Navbar
+ * Design Banner for all Services Pages
  */
+
+ .design-banner{
+   width: 100%;
+   padding: 2rem;
+   background: linear-gradient(rgba(130, 80, 153, 0.952), rgba(72, 4, 117, 0.959)), url("../img/portfolio/portfolio-1.jpg") fixed center center;
+  }

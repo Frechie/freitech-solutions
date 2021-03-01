@@ -48,7 +48,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">SERVICES</a>
+              <a class="nav-link" href="{{ url('/services/web-design') }}">SERVICES</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="accountDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -123,9 +123,9 @@
     </div>
     <div class="container">
       <div class="copyright">
-       Copyright  &copy;  {{date('Y') }} <strong><span>Freitech-Solutions</span></strong>. All Rights Reserved <br>
+       Copyright  &copy;  {{date('Y') }} <strong class="text-white"><span><a class="text-white" href="{{url('/')}}">Freitech Solutions</a></span></strong>. All Rights Reserved <br>
        <small>The information contained herein may not be published, broadcast, rewritten, or redistributed
-        without the prior written authority of <a href="{{url('/')}}">Freitech Solutions</a></small>
+        without the prior written authority of <strong ><span><a class="text-white" href="{{url('/')}}">Freitech Solutions.</a></span></strong></small>
       </div>
     </div>
   </footer>
