@@ -10,6 +10,10 @@ nav li a:active{
   color: #fff;
 }
 
+section{
+  margin-bottom: 1rem;
+}
+
 li, a {
   text-decoration: none;
 }
