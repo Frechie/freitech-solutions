@@ -70,42 +70,130 @@
 </div>
 
 <section>
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-          <title>Placeholder</title>
-          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
-        </svg>
+      <div class="col-lg-3 col-md-6 stretch-card grid-margin">
+        <div class="card bg-dark card-img-holder text-white">
+          <div class="card-body">
+            <a class="text-white" href="{{ url('/dashboard/new') }}">
+              <img src="{{ asset('assets/img/dashboard/circle.svg') }}" class="card-img-absolute" alt="circle-image" />
+              <i class="icofont-computer"></i>
+              <h4 class="mb-5 text-center">Web Design &amp; Development </h4>
+            </a>
+          </div>
+        </div>
+        <div class="icon-box">
+          <p>
+            It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
+          <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
+            to our doorsteps.
+          </p>
+          <p>
+            No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
+            device, we can conduct all of our Financial activities seamlessly and in record time.
+          </p>
+          <p>
+            Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that
+            would detonate soonest.
+          </p>
+          <p>
+            Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity.
+            <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
+          </p>
+          <hr>
+          <div class="text-center">
+            <a href="{{ url('/services/web-design') }}" class="btn btn-explore w-100">Explore....</a>
+          </div>
+        </div>
+      </div>
 
-        <h2>Heading</h2>
-        <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-3 col-md-6 stretch-card grid-margin">
+        <div class="card bg-primary card-img-holder text-white">
+          <div class="card-body">
+            <a class="text-white" href="{{ url('/dashboard/new') }}">
+              <img src="{{ asset('assets/img/dashboard/circle.svg') }}" class="card-img-absolute" alt="circle-image" />
+              <i class="icofont-chart-bar-graph"></i>
+              <h4 class="mb-5 text-center">Big Data Analytics &amp; Business Intelligence</h4>
+            </a>
+          </div>
+        </div>
+        <div class="icon-box">
+          <article style="text-align: justify;">
+            <p>
+              <strong>Take a guess:</strong> How much data do you think is generated across the globe?
+              My guts feeling tells me your guess falls below the mark except you are a Big Data Enthusiast/Analyst
+              with updated information.
+            </p>
+            <p>
+              A peek at <a href="https://internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
+              <strong>150+ billion </strong> emails being sent daily, <strong>5+ billions Google</strong> searches daily.
+            </p>
+            <p>
+              Possessing the right Tools, Resources and Technologies in order to extract meaniful Insights from this huge data gold-mine
+              is what would detemine how far your organization thrives in this ever-dirsuptive 21st century society.
+            </p>
+            <p>
+              It is no longer about making decisions but having an effctive decison making system. Put differently,
+              Yow do you make the decision that determines your decision.
+            </p>
+          </article>
+          <hr>
+          <div class="text-center">
+            <a href="" class="btn btn-explore w-100">Explore....</a>
+          </div>
+        </div>
+      </div>
 
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-          <title>Placeholder</title>
-          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
-        </svg>
+      <div class="col-lg-3 col-md-6 stretch-card grid-margin">
+        <div class="card bg-warning card-img-holder text-white">
+          <div class="card-body">
+            <a class="text-white" href="{{ url('/dashboard/new') }}">
+              <img src="{{ asset('assets/img/dashboard/circle.svg') }}" class="card-img-absolute" alt="circle-image" />
+              <i class="icofont-settings"></i>
+              <h4 class="mb-5 text-center">Enterprise Apps Customization &amp; Integrations</h4>
+            </a>
+          </div>
+        </div>
+        <div class="icon-box">
+          <p>
+            In my experience as a Technology consulatant, organisations upon the purchase of an Enterprise organisation
+            always ensures that the Technology utilization is at a reasonable percentage that matches the Financial efforts
+            and Resources put in.
+          </p>
+          <p>
+            Freitech Solutions, with in-depths knowledge ensures that clients get the most they can from their Enterprise Apps
+            by extending the core features or integratiing the System with an external systems...
+          </p>
+          <hr>
+          <div class="text-center">
+            <a href="" class="btn btn-explore w-100">Explore....</a>
+          </div>
+        </div>
+      </div>
 
-        <h2>Heading</h2>
-        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-3 col-md-6 stretch-card grid-margin">
+        <div class="card bg-success card-img-holder text-white">
+          <div class="card-body">
+            <a class="text-white" href="{{ url('/dashboard/new') }}">
+              <img src="{{ asset('assets/img/dashboard/circle.svg') }}" class="card-img-absolute" alt="circle-image" />
+              <i class="icofont-network"></i>
+              <h4 class="mb-5 text-center">Training &amp; Consulting</h4>
+            </a>
+          </div>
+        </div>
+        <div class="icon-box">
+          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
+            Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+            <hr>
+            <div class="text-center">
+              <a href="" class="btn btn-explore w-100">Explore....</a>
+            </div>
+          </div>
 
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-          <title>Placeholder</title>
-          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
-        </svg>
-
-        <h2>Heading</h2>
-        <p>And lastly this, the third column of representative placeholder content.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+        </div>
+      </div><!-- /.col-lg-3 -->
     </div><!-- /.row -->
-  </div>
 </section>
 
 <section id="about">
@@ -232,9 +320,8 @@
             <a href="" class="btn btn-explore w-100">Explore....</a>
           </div>
         </div>
-
-
       </div>
+
       <div class="col-md-6 mt-4 mt-md-0">
         <div class="icon-box">
           <i class="icofont-network"></i>
