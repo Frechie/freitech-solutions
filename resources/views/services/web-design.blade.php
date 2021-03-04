@@ -11,7 +11,7 @@
             </div>
 
             <div class="col-lg-3 col-md-5">
-                <img class="img-fluid" src="{{asset('assets/img/slide/slide-1.jpg') }}" alt="">
+            <i class="icofont-computer"></i>
             </div>
         </div>
     </div>
@@ -20,27 +20,36 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-7">
-                <article style="text-align: justify;">
-                    <h2>Web Design &amp; Development</h2>
+                <div class="icon-box">
+                    <div class="text-center">
+                        <a href="{{ url('/services/web-design') }}" class="btn btn-explore w-100">
+                            Web Design &amp; Development
+                        </a>
+                    </div>
+                    <hr>
+                   
                     <p>
-                        This introduction to Python will kickstart your learning of&nbsp;<strong>Python&nbsp;
-                        for data science</strong>, as well as programming in general. This beginner-friendly
-                        Python course will take you from zero to programming in Python in a matter of hours.
+                        It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
+                    <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
+                        to our doorsteps.
                     </p>
-
                     <p>
-                        Upon its completion, you&#39;ll be able to write your own Python scripts and perform
-                        basic hands-on data analysis using our Jupyter-based lab environment. If you want to
-                        learn Python from scratch, this free course is for you.
+                        No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
+                        device, we can conduct all of our Financial activities seamlessly and in record time.
                     </p>
-
                     <p>
-                        You can start creating your own data science projects and collaborating with other
-                        data scientists using&nbsp;<a href="http://cocl.us/PythonforDataScienceMainPage" rel="noopener" target="_blank">IBM Watson Studio</a>. When you sign up, you get free access to Watson Studio. Start now and take advantage of this platform.</p>
+                        Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that
+                        would detonate soonest.
+                    </p>
+                    <p>
+                        Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity.
+                        <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
+                    </p>
+                    <hr>
 
-                    <hr />
-                </article>
+                </div>
             </div>
+
             <div class="col-lg-4 col-md-5">
                 <div class="list-group rounded">
                     <a href="#" class="list-group-item list-group-item-action btn-explore" aria-current="true">

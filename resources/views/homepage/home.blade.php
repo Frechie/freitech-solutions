@@ -82,20 +82,7 @@
             </a>
           </div>
         </div>
-        <div class="icon-box">
-          <p>
-            It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
-          <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
-            to our doorsteps.
-          </p>
-          <p>
-            No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
-            device, we can conduct all of our Financial activities seamlessly and in record time.
-          </p>
-          <p>
-            Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that
-            would detonate soonest.
-          </p>
+        <div class="icon-box icon-box-size">
           <p>
             Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity.
             <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
@@ -117,24 +104,14 @@
             </a>
           </div>
         </div>
-        <div class="icon-box">
+        <div class="icon-box icon-box-size">
           <article style="text-align: justify;">
             <p>
-              <strong>Take a guess:</strong> How much data do you think is generated across the globe?
-              My guts feeling tells me your guess falls below the mark except you are a Big Data Enthusiast/Analyst
-              with updated information.
+              It is no longer about making decisions but having an effctive decison making system. i.e 
+              What tools aids your decision making?
             </p>
             <p>
-              A peek at <a href="https://internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
-              <strong>150+ billion </strong> emails being sent daily, <strong>5+ billions Google</strong> searches daily.
-            </p>
-            <p>
-              Possessing the right Tools, Resources and Technologies in order to extract meaniful Insights from this huge data gold-mine
-              is what would detemine how far your organization thrives in this ever-dirsuptive 21st century society.
-            </p>
-            <p>
-              It is no longer about making decisions but having an effctive decison making system. Put differently,
-              Yow do you make the decision that determines your decision.
+              <strong>We help you make sense out of your data!!!</strong> 
             </p>
           </article>
           <hr>
@@ -154,12 +131,7 @@
             </a>
           </div>
         </div>
-        <div class="icon-box">
-          <p>
-            In my experience as a Technology consulatant, organisations upon the purchase of an Enterprise organisation
-            always ensures that the Technology utilization is at a reasonable percentage that matches the Financial efforts
-            and Resources put in.
-          </p>
+        <div class="icon-box icon-box-size">
           <p>
             Freitech Solutions, with in-depths knowledge ensures that clients get the most they can from their Enterprise Apps
             by extending the core features or integratiing the System with an external systems...
@@ -181,7 +153,7 @@
             </a>
           </div>
         </div>
-        <div class="icon-box">
+        <div class="icon-box icon-box-size">
           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
             Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
