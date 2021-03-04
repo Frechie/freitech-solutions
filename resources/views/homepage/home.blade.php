@@ -69,6 +69,45 @@
   </button>
 </div>
 
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <title>Placeholder</title>
+          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+        </svg>
+
+        <h2>Heading</h2>
+        <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <title>Placeholder</title>
+          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+        </svg>
+
+        <h2>Heading</h2>
+        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
+          <title>Placeholder</title>
+          <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+        </svg>
+
+        <h2>Heading</h2>
+        <p>And lastly this, the third column of representative placeholder content.</p>
+        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+  </div>
+</section>
+
 <section id="about">
   <div class="container">
     <div class="row">
@@ -78,7 +117,7 @@
           <hr>
           <article style="text-align: justify;">
             <p>
-              The dependent on Technological Solution to every day hhuman problems can only increase and any undividual or organization
+              The dependent on Technological Solution to every day human problems can only increase and any undividual or organization
               that refuse to align to this change would realise that in no time their organization would barely exist if it has not gone into
               extinction.
             </p>
@@ -109,7 +148,7 @@
 <section id="services" class="services section-bg">
   <div class="container">
     <div class="row">
-    <!-- Web Design and Development Section -->
+      <!-- Web Design and Development Section -->
       <div class="col-md-6">
         <div class="icon-box">
           <i class="icofont-computer"></i>
@@ -117,20 +156,20 @@
           <hr>
           <p>
             It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
-            <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered 
+          <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
             to our doorsteps.
-            </p>
-            <p>
+          </p>
+          <p>
             No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
             device, we can conduct all of our Financial activities seamlessly and in record time.
-            </p>
-            <p>
-            Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that 
-            would detonate soonest.
-            </p>
+          </p>
           <p>
-          Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity. 
-          <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
+            Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that
+            would detonate soonest.
+          </p>
+          <p>
+            Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity.
+            <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
           </p>
           <hr>
           <div class="text-center">
@@ -153,7 +192,7 @@
               with updated information.
             </p>
             <p>
-              A peek at <a href="internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
+              A peek at <a href="https://internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
               <strong>150+ billion </strong> emails being sent daily, <strong>5+ billions Google</strong> searches daily.
             </p>
             <p>
@@ -161,8 +200,8 @@
               is what would detemine how far your organization thrives in this ever-dirsuptive 21st century society.
             </p>
             <p>
-            It is no longer about making decisions but having an effctive decison making system. Put differently,
-            Yow do you make the decision that determines your decision. 
+              It is no longer about making decisions but having an effctive decison making system. Put differently,
+              Yow do you make the decision that determines your decision.
             </p>
           </article>
           <hr>
@@ -180,14 +219,14 @@
           <h4><a href="#">Enterprise Apps Customization &amp; Integrations</a></h4>
           <hr>
           <p>
-           In my experience as a Technology consulatant, organisations upon the purchase of an Enterprise organisation 
-           always ensures that the Technology utilization is at a reasonable percentage that matches the Financial efforts 
-           and Resources put in.
-           </p>
-           <p>
+            In my experience as a Technology consulatant, organisations upon the purchase of an Enterprise organisation
+            always ensures that the Technology utilization is at a reasonable percentage that matches the Financial efforts
+            and Resources put in.
+          </p>
+          <p>
             Freitech Solutions, with in-depths knowledge ensures that clients get the most they can from their Enterprise Apps
             by extending the core features or integratiing the System with an external systems...
-           </p>
+          </p>
           <hr>
           <div class="text-center">
             <a href="" class="btn btn-explore w-100">Explore....</a>

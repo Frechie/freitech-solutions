@@ -28,9 +28,6 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mx-auto mb-2 mb-md-0">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="{{url('/') }}">HOME</a>
-            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 ABOUT
@@ -123,9 +120,9 @@
     </div>
     <div class="container">
       <div class="copyright">
-       Copyright  &copy;  {{date('Y') }} <strong class="text-white"><span><a class="text-white" href="{{url('/')}}">Freitech Solutions</a></span></strong>. All Rights Reserved <br>
-       <small>The information contained herein may not be published, broadcast, rewritten, or redistributed
-        without the prior written authority of <strong ><span><a class="text-white" href="{{url('/')}}">Freitech Solutions.</a></span></strong></small>
+        Copyright &copy; {{date('Y') }} <strong class="text-white"><span><a class="text-white" href="{{url('/')}}">Freitech Solutions</a></span></strong>. All Rights Reserved <br>
+        <small>The information contained herein may not be published, broadcast, rewritten, or redistributed
+          without the prior written authority of <strong><span><a class="text-white" href="{{url('/')}}">Freitech Solutions.</a></span></strong></small>
       </div>
     </div>
   </footer>

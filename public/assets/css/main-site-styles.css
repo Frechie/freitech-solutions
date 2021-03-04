@@ -14,6 +14,9 @@ section{
   margin-bottom: 1rem;
 }
 
+section .row{
+  margin-top: 1rem;
+}
 li, a {
   text-decoration: none;
 }
