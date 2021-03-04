@@ -17,7 +17,7 @@
     </div>
 </section>
 <section>
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-lg-8 col-md-7">
                 <div class="icon-box">

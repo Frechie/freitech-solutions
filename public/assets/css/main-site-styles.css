@@ -132,6 +132,11 @@ li .nav-link, li .dropdown-item {
   height: 100%;
 }
 
+.container-fluid{
+  max-width: 95%;
+  margin: 0 auto;
+  }
+  
 
 .card-size{
   height: 200px;
