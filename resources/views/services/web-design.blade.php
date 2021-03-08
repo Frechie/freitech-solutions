@@ -44,41 +44,6 @@
                         <a href="{{ url('/services/web-design') }}" class="btn bg-explore w-100">Explore....</a>
                     </div>
                 </div>
-
-
-
-                <div class="icon-box">
-                    <i class="icofont-chart-bar-graph"></i>
-                    <h4>
-                        <a href="#">Big Data Analytics &amp; Business Intelligence</a>
-                    </h4>
-                    <hr>
-                    <article style="text-align: justify;">
-                        <p>
-                            <strong>Take a guess:</strong> How much data do you think is generated across the globe?
-                            My guts feeling tells me your guess falls below the mark except you are a Big Data Enthusiast/Analyst
-                            with updated information.
-                        </p>
-                        <p>
-                            A peek at <a href="https://internetlivestats.com" target="_blank">Live Internet Metric</a> reveals that there are <strong>4+ Billion</strong> active users on the internet,
-                            <strong>150+ billion </strong> emails being sent daily, <strong>5+ billions Google</strong> searches daily.
-                        </p>
-                        <p>
-                            Possessing the right Tools, Resources and Technologies in order to extract meaniful Insights from this huge data gold-mine
-                            is what would detemine how far your organization thrives in this ever-dirsuptive 21st century society.
-                        </p>
-                        <p>
-                            It is no longer about making decisions but having an effctive decison making system. Put differently,
-                            Yow do you make the decision that determines your decision.
-                        </p>
-                    </article>
-                    <hr>
-                    <div class="text-center">
-                        <a href="" class="btn bg-explore w-100">Explore....</a>
-                    </div>
-                </div>
-
-
             </div>
             <!--End of Services  -->
 
@@ -98,8 +63,5 @@
             </div>
         </div>
     </div>
-</section>
-
-<section>
 </section>
 @endsection
