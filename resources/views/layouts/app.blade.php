@@ -38,10 +38,6 @@
                   <hr class="dropdown-divider">
                 </li>
                 <li><a class="dropdown-item" href="{{ url('/about/team') }}">TEAM</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="#">CONTACT</a></li>
               </ul>
             </li>
             <li class="nav-item">

@@ -11,19 +11,16 @@ nav li a:active {
 }
 
 section {
-  margin-bottom: 1rem;
+  margin-bottom: 0.1rem;
 }
 
-section .row {
-  margin-top: 2rem;
-}
 
 li, a {
   text-decoration: none;
 }
 
 .navbar {
-  background: linear-gradient(rgba(58, 36, 71, 0.952), rgba(28, 3, 39, 0.959)) !important;
+  background: linear-gradient(rgb(67, 3, 104), rgb(124, 2, 177)) !important;
 }
 
 @media (min-width: 768px) {
@@ -44,7 +41,7 @@ body {
 }
 
 .carousel-caption {
-  margin-bottom: 8rem;
+  margin-bottom: 7rem;
   bottom: 3rem;
   z-index: 10;
 }
@@ -133,7 +130,7 @@ li .nav-link, li .dropdown-item {
 }
 
 .container-fluid{
-  max-width: 95%;
+  max-width: 96%;
   margin: 0 auto;
   }
   
@@ -144,6 +141,18 @@ li .nav-link, li .dropdown-item {
 
 .icon-box-size{
   height: 300px;
+}
+
+.icon{
+  font-size: 30px;
+}
+
+.text-big{
+  font-size: 24px;
+  margin: 0 0 20px 0;
+  padding: 2px 0 2px 0;
+  line-height: 1;
+  font-weight: 700;
 }
 /*--------------------------------------------------------------
 # Footer
@@ -156,7 +165,7 @@ li .nav-link, li .dropdown-item {
   font-size: 14px;
 }
 
-.btn-explore {
+.bg-explore {
   background: linear-gradient(rgba(105, 17, 156, 0.952), rgba(59, 2, 83, 0.959));
   color: #fff !important;
 }
@@ -416,7 +425,7 @@ p {
 /* Login Form Styles */
 
 .auth {
-  background: linear-gradient(rgba(58, 36, 71, 0.952), rgba(28, 3, 39, 0.959)), url("../img/portfolio/portfolio-4.jpg") fixed center center;
+  background: linear-gradient(rgba(58, 36, 71, 0.952), rgba(63, 12, 85, 0.849)), url("../img/portfolio/portfolio-4.jpg") fixed center center;
 }
 
 .form-signin {

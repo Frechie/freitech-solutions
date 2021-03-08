@@ -3,15 +3,13 @@
 <section class="design-banner text-white">
     <div class="container">
         <div class="row">
-
             <div class="col-lg-9 col-md-7 px-0">
                 <h1 class="display-4 fst-italic">Title of a longer featured blog post</h1>
                 <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
                 <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading...</a></p>
             </div>
-
             <div class="col-lg-3 col-md-5">
-            <i class="icofont-computer"></i>
+                <i class="icofont-computer"></i>
             </div>
         </div>
     </div>
@@ -27,10 +25,11 @@
                         </a>
                     </div>
                     <hr>
-                   
                     <p>
-                        It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
-                    <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
+                        It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.
+                    </p>
+                    <p>
+                        No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
                         to our doorsteps.
                     </p>
                     <p>
@@ -46,7 +45,6 @@
                         <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
                     </p>
                     <hr>
-
                 </div>
             </div>
 
