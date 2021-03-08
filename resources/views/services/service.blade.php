@@ -20,7 +20,7 @@
             <div class="col-lg-8 col-md-7">
                 <div class="icon-box">
                     <div class="text-center">
-                        <a href="{{ url('/services/web-design') }}" class="btn btn-explore w-100">
+                        <a href="{{ url('/services/web-design') }}" class="btn bg-explore w-100">
                             Web Design &amp; Development
                         </a>
                     </div>
@@ -49,14 +49,16 @@
             </div>
 
             <div class="col-lg-4 col-md-5">
-                <div class="list-group rounded">
-                    <a href="#" class="list-group-item list-group-item-action btn-explore" aria-current="true">
-                        The current link item
-                    </a>
-                    <a href="#" class="list-group-item list-group-item-action">A second link item</a>
-                    <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-                    <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
-                    <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
+                <div class="icon-box">
+                    <div class="list-group rounded">
+                        <a href="#" class="list-group-item list-group-item-action bg-explore" aria-current="true">
+                            The current link item
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action">A second link item</a>
+                        <a href="#" class="list-group-item list-group-item-action">A third link item</a>
+                        <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
+                        <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
+                    </div>
                 </div>
             </div>
         </div>

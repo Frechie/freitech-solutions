@@ -41,7 +41,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ url('/services/web-design') }}">SERVICES</a>
+              <a class="nav-link" href="{{ url('/services') }}">SERVICES</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="accountDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

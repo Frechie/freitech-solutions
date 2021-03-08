@@ -33,7 +33,7 @@ Route::get('/about/contact', function (){
 
 
 Route::get('/services', function (){
-    return view('services.training-consulting');
+    return view('services.service');
 });
 
 Route::get('/services/data-analytics', function (){
