@@ -391,7 +391,7 @@ li .nav-link, li .dropdown-item {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: linear-gradient(rgba(247, 249, 250, 0.952), rgba(232, 237, 247, 0.959));
+  background: linear-gradient(rgba(247, 249, 250, 0.479), rgba(232, 237, 247, 0.288));
 }
 
 .icon-box i {

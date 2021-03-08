@@ -19,35 +19,6 @@
         <div class="row">
             <div class="col-lg-8 col-md-7">
                 <div class="icon-box">
-                    <i class="icofont-computer"></i>
-                    <h4><a href="#">Web Design &amp; Development </a></h4>
-                    <hr>
-                    <p>
-                        It&apos;s the 21st Century, and Disruptive Technology seems to be major palyer.</p>
-                    <p>No longer do we have to go Grocery Shopping, with just few clicks and typing, Groceries get delivered
-                        to our doorsteps.
-                    </p>
-                    <p>
-                        No longer do we have to go to the banks to complete financial trasanctions, with login credentials on a digital
-                        device, we can conduct all of our Financial activities seamlessly and in record time.
-                    </p>
-                    <p>
-                        Its 21st Century O&apos;clock and any organization without an online presence is living on a tome-bomb that
-                        would detonate soonest.
-                    </p>
-                    <p>
-                        Having a Website that is proessionaly rendered across multiple devices and platform is not a luxury but rather a neccesity.
-                        <span>As a matter of fact, to think contrary is to initiate the death of the organization</span>
-                    </p>
-                    <hr>
-                    <div class="text-center">
-                        <a href="{{ url('/services/web-design') }}" class="btn bg-explore w-100">Explore....</a>
-                    </div>
-                </div>
-
-
-
-                <div class="icon-box">
                     <i class="icofont-chart-bar-graph"></i>
                     <h4>
                         <a href="#">Big Data Analytics &amp; Business Intelligence</a>
@@ -98,8 +69,5 @@
             </div>
         </div>
     </div>
-</section>
-
-<section>
 </section>
 @endsection
