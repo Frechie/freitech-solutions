@@ -32,8 +32,8 @@ Route::get('/about/contact', function (){
 });
 
 
-Route::get('/services', function (){
-    return view('services.service');
+Route::get('/services/web-design', function (){
+    return view('services.web-design');
 });
 
 Route::get('/services/data-analytics', function (){
@@ -44,8 +44,12 @@ Route::get('/services/graphics', function (){
     return view('services.graphics-design');
 });
 
-Route::get('/services/web-design', function (){
-    return view('services.web-design');
+Route::get('/services/training', function (){
+    return view('services.training');
+});
+
+Route::get('/services/security', function (){
+    return view('services.security');
 });
 
 

@@ -40,8 +40,19 @@
                 <li><a class="dropdown-item" href="{{ url('/about/team') }}">TEAM</a></li>
               </ul>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ url('/services') }}">SERVICES</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="serviceDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                SERVICES
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="serviceDropdown">
+                <li><a class="dropdown-item" href="{{ url('/services/web-design') }}">WEB-DESIGN</a></li>
+                <li> <hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="{{ url('/services/security') }}">ENTERPRISE SECURITY</a></li>
+                <li> <hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="{{ url('/services/training') }}">TRAINING &amp; CONSULTANCY</a></li>
+                <li> <hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="{{ url('/services/data-analytics') }}">DATA ANALYTICS</a></li>
+              </ul>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="accountDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -49,9 +60,7 @@
               </a>
               <ul class="dropdown-menu" aria-labelledby="accountDropdown">
                 <li><a class="dropdown-item" href="{{ route('login') }}">LOGIN</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
+                <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="{{ route('register') }}">REGISTER</a></li>
               </ul>
             </li>
