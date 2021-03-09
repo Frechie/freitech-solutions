@@ -20,7 +20,7 @@ li, a {
 }
 
 .navbar {
-  background: linear-gradient(rgb(67, 3, 104), rgb(124, 2, 177)) !important;
+  background: linear-gradient(#6f42c1,#69149b) !important;
 }
 
 @media (min-width: 768px) {
