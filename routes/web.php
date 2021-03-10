@@ -57,6 +57,7 @@ Route::get('/blog', function (){
     return view('blog.blogs');
 });
 
+Route::get('/portal/training', [App\Http\Controllers\Training\TrainingController::class, 'index'])->name('training');
 
 Auth::routes();
 

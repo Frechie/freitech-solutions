@@ -18,6 +18,7 @@ class TrainingController extends Controller {
     public function index()
     {
         //
+        return view('admin.training.training');
     }
 
     /**
