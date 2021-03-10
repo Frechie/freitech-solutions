@@ -9,16 +9,16 @@ class Training extends Model
 {
     use HasFactory;
 
-    protected $fillable=[
-                            'training_category',
-                            'training_title',
-                            'training_desc',
-                            'instructor_id'
-
+    protected $fillable = [
+        'instructor_id',
+        'training_category',
+        'training_title',
+        'training_desc'
     ];
 
 
-    public function user(){
-       return  $this->belongsTo('User::class');
+    public function user()
+    {
+        return  $this->belongsTo('User::class');
     }
 }
