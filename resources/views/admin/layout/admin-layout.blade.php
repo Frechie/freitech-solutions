@@ -57,6 +57,13 @@
                             </a>
                         </li>
 
+                        <li class="nav-item">
+                            <a href="" class="nav-link">
+                                <i class="nav-icon icofont-chart-histogram"></i>
+                                <p>Reports </p>
+                            </a>
+                        </li>
+
                         <li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <div class="icon">
@@ -121,12 +128,6 @@
                                     </a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a href="pages/gallery.html" class="nav-link">
-                                <i class="nav-icon icofont-"></i>
-                                <p>Reports </p>
-                            </a>
                         </li>
 
                         <li class="nav-item">
